@@ -2,5 +2,6 @@ Flask
 pandas
 numpy
 matplotlib
-seabornpip
-sklearn
+seaborn
+#sklearn
+gunicorn
